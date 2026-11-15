@@ -1,0 +1,6 @@
+{
+  "name": "CSE 1204 · Computer Applications for Business",
+  "description": "Interactive educational portal for CSE 1204 Computer Applications for Business at BAUST Saidpur — featuring 43 structured lessons, an interactive Excel formula playground, 13 lab sheets, 5 business datasets, and 3-mode MCQ quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
